@@ -409,7 +409,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libaudioroute_vendor",
-    stem: "libaudioroute",
+    stem: "libaudioroute.9611",
     owner: "samsung",
     strip: {
         none: true,
